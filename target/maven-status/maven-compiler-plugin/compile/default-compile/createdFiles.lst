@@ -1,0 +1,5 @@
+co\gov\icfes\config\swagger\ServiceDescriptionUpdater.class
+co\gov\icfes\config\swagger\SwaggerUIConfiguration.class
+co\gov\icfes\config\swagger\ServiceDefinitionsContext.class
+co\gov\icfes\web\ServiceDefinitionController.class
+co\gov\icfes\ServicioDocumentacionApplication.class

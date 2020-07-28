@@ -1,0 +1,17 @@
+server:
+  port: 9095
+  
+ 
+eureka:
+  instance:
+    appname: servicio-documentacion
+  client:
+    enabled: true
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://192.168.0.9:8761/eureka/
+      
+swagger: 
+  config: 
+    refreshrate: 5000
